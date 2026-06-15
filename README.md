@@ -198,7 +198,7 @@ Possible improvements include:
 ## 📚 References
 
 Dataset:
-- Car Body Type Images Dataset (Kaggle)
+- Car Body Type Images Dataset (Kaggle) | Link: [https://www.kaggle.com/datasets/ademboukhris/cars-body-type-cropped](url)
 
 Machine Learning:
 - TensorFlow / Keras Documentation
